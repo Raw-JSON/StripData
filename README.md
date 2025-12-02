@@ -33,5 +33,4 @@ The essential debugging and data preparation tool for developers.
 
 * **Zero Bloat:** Built with pure Vanilla JavaScript, HTML, and CSS.
 * **Zero Dependency:** No external libraries, frameworks, or APIs are required.
-* **[span_0](start_span)License:** MIT[span_0](end_span).
-
+* **MIT License:** Open source and free forever.
