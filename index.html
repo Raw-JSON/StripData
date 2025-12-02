@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RawJSON Data Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-mode">
+
+    <div class="container">
+        <header class="text-center mb-8">
+            <h1>RawJSON Data Converter</h1>
+            <p class="subtitle">Client-Side CSV & JSON Utility.</p>
+        </header>
+
+        <div class="converter-grid">
+            <textarea id="inputBox" placeholder="Paste your data here (CSV or JSON)..."></textarea>
+            <textarea id="outputBox" placeholder="Converted data will appear here..." readonly></textarea>
+        </div>
+
+        <button id="convertButton" onclick="toggleMode()">CSV → JSON</button>
+        <button id="copyButton" onclick="copyOutput()" class="secondary">📋 Copy Output</button>
+    </div>
+
+    <script src="data-converter.js"></script>
+</body>
+</html>
