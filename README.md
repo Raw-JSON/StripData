@@ -1,4 +1,4 @@
-# 0FluffStyle ⚡
+# 0FluffData ⚡
 
 ### 100% Client-Side Data Utility. No Servers. Zero Latency.
 
