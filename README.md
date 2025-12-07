@@ -8,7 +8,7 @@ StripData is a high-performance web utility engineered for architectural minimal
 
 ---
 
-## 🎯 Why You Need It: The StripData Advantage
+## 🎯 Why You Need It: The 0FluffStyle Advantage
 
 This tool removes all dependence on external services, delivering speed and security server-based tools can't touch.
 
