@@ -2,7 +2,7 @@
 
 ### 100% Client-Side Data Utility. No Servers. Zero Latency.
 
-StripData is a high-performance web utility engineered for architectural minimalism. It processes and formats raw data *instantly* in your browser while maintaining maximum speed and privacy.
+> 0FluffData is a high-performance web utility engineered for architectural minimalism. It processes and formats raw data *instantly* in your browser while maintaining maximum speed and privacy.
 
 **[🔗 Open the Web App](https://raw-json.github.io/StripData/)**
 
